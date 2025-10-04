@@ -1,1 +1,1 @@
-কেউ Panel files চাইলে দিবেন না 🚫। Patch Update আসলে এখানে Click করলে Auto update হবে ⚡। আর Bot ID তে কিছু Match হলে আগে Test করে নিবেন ✅।
+Do not share the panel files with anyone. When a patch update is released, simply click here to receive the update automatically. Additionally, make sure to test with the bot ID if any matches occur.
